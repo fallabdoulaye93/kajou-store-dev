@@ -1,0 +1,48 @@
+{
+    "header": {
+        "search": "Search contents"
+    },
+    "error404": {
+        "loading": "Loading",
+        "comeBack": "Return to Home",
+        "notFound": "Sorry, page not found!"
+    },
+    "tabs": {
+        "for_you": "For you",
+        "kajou_cards": "Kajou cards",
+        "most_seen": "Most Seen"
+    },
+    "user_pref": {
+        "customize_experience_text": "Prenons quelques instants pour personnaliser votre expérience...",
+        "select_thematique_text": "Sélectionnez les thématiques qui vous intéressent le plus, puis validez : ",
+        "langue_princ_contenu_text": " Langue principale des contenus :",
+        "langue_princ_contenu_question_text": "Souhaitez-vous consulter des contenus dans d’autres langues ?",
+        "select_toute_langue_souhaite_text": "(Sélectionnez toutes les langues que vous souhaitez)",
+        "merci_text": "Merci !",
+        "perso_exp_text": "Nous personnalisons votre expérience",
+        "progress_text_1": "Récupération de vos informations",
+        "progress_text_2": "Identification des contenus",
+        "progress_text_3": "Organisation des éléments..."
+    },
+    "buttons": {
+        "valider": "VALIDER",
+        "commander": "COMMANDER",
+        "activer": "ACTIVER"
+    },
+    "les_cartes_kajou": {
+        "collab_with": "En collaboration avec",
+        "exemples_contenus": "Quelques exemples de contenus",
+        "versions_dispo": "Versions disponibles",
+        "ecard": "E-CARD",
+        "sdcard": "CARTE SD",
+        "dispo_en_carte_sd": "Disponible en Carte SD",
+        "dispo_en_carte_ecard": "et en eCard",
+        "deja_disponible": "Déjà disponibles  >",
+        "AJOUTER_AUX_FAVORIS": "AJOUTER AUX FAVORIS",
+        "Rencontrez_nos_experts" : "Rencontrez nos experts",
+        "Evénement_en_cours":"Evénement en cours",
+        "Recommandés_pour_vous": "Recommandés pour vous",
+        "ecard": "Solidarité Ukraine ",
+        "ecard_ukrainien": "| Солідарна Україна"
+    }
+}
